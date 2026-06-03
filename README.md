@@ -12,15 +12,10 @@ Actualmente profundizando arquitectura backend, principios SOLID y diseño de so
 
 # Tech Stack
 # Backend
-Java
-Spring Boot
-Spring Security
-JWT
-REST APIs
+Java | Spring Boot | Spring Security | JWT | REST APIs
 
 # Database
-SQL
-MySQL
+SQL | MySQL | SQL Server
 
 # Tools & Workflow
 Git
