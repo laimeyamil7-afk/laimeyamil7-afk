@@ -81,3 +81,6 @@ https://www.linkedin.com/in/yamil-laime-8218892b4/
 
 📧 Email
 [adelmar-vpc@hotmail.com](mailto:adelmar-vpc@hotmail.com)
+
+📱 Teléfono
++54 9 11 5865-0760
