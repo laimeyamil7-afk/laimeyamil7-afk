@@ -2,17 +2,17 @@
 
 ### Java Backend Developer
 
-**Java Core • Spring Boot • REST APIs • Spring Security • SQL**
+**Java • Spring Boot • Spring Security • REST APIs • SQL**
 
 ---
 
-## Sobre mí
+## About Me
 
-Backend Developer especializado en Java y Spring Boot, con experiencia desarrollando APIs REST e implementando persistencia, autenticación y seguridad backend.
+Java Backend Developer focused on building RESTful applications using Spring Boot and the Java ecosystem.
 
-Enfocado en construir aplicaciones mantenibles aplicando programación orientada a objetos, diseño por capas y buenas prácticas de desarrollo.
+Experienced in developing backend solutions that implement authentication, authorization, data persistence, and layered architecture following object-oriented programming principles and clean code practices.
 
-Actualmente profundizando arquitectura backend, principios SOLID y diseño de software escalable.
+Currently expanding my knowledge in backend architecture, SOLID principles, software design, testing, and scalable application development.
 
 ---
 
@@ -24,14 +24,16 @@ Actualmente profundizando arquitectura backend, principios SOLID y diseño de so
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
 </p>
 
-### Database
+### Persistence & Database
 
 <p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
@@ -47,40 +49,77 @@ Actualmente profundizando arquitectura backend, principios SOLID y diseño de so
 
 ---
 
-## Áreas de Especialización
+## Areas of Expertise
 
-* Desarrollo backend con Java y Spring Boot
-* APIs REST
-* Seguridad backend y autenticación con JWT
-* Persistencia y modelado de datos
-* Diseño orientado a objetos y arquitectura por capas
-
----
-
-## Proyectos Destacados
-
-### API REST con autenticación y autorización JWT
-
-Backend desarrollado con Spring Boot y Spring Security implementando autenticación, autorización y persistencia de datos.
-
-**Stack:**
-Java • Spring Boot • Spring Security • JWT • SQL • Maven
+* Backend Development with Java and Spring Boot
+* REST API Design and Development
+* Authentication and Authorization with Spring Security and JWT
+* Data Persistence with JPA/Hibernate
+* Object-Oriented Programming (OOP)
+* Layered Architecture
+* SQL Database Design and Integration
 
 ---
 
-### Proyecto Backend Integral
+## Featured Projects
 
-Proyecto orientado a integrar arquitectura, seguridad, persistencia y buenas prácticas de desarrollo backend.
+### Spring Security RBAC + JWT Authentication
+
+REST API built with Spring Boot and Spring Security implementing a complete authentication and authorization system using JWT and Role-Based Access Control (RBAC).
+
+#### Highlights
+
+* User Registration and Login
+* JWT Token Generation and Validation
+* Stateless Authentication
+* Spring Security Integration
+* Role-Based Access Control (RBAC)
+* Permission-Based Authorization
+* Method Security with `@PreAuthorize`
+* BCrypt Password Encryption
+* MySQL Persistence with JPA/Hibernate
+* Custom JWT Security Filter
+
+**Stack:** Java • Spring Boot • Spring Security • JWT • JPA • Hibernate • MySQL • Maven
 
 ---
 
-## Contacto
+### Java Streams & Lambda Expressions Examples
+
+Collection of practical examples demonstrating the use of Java Streams API and Lambda Expressions for data processing and functional-style programming.
+
+**Topics Covered:**
+
+* Filtering
+* Mapping
+* Sorting
+* Collectors
+* Optional
+* Functional Interfaces
+* Stream Operations
+
+**Stack:** Java
+
+---
+
+## Current Learning Focus
+
+* Software Design Principles (SOLID)
+* Design Patterns
+* Unit Testing with JUnit & Mockito
+* Docker
+* Backend Architecture
+* Clean Code
+
+---
+
+## Contact
 
 💼 LinkedIn
-https://www.linkedin.com/in/yamil-laime-8218892b4/
+[www.linkedin.com/in/yamil-laime-8218892b4](http://www.linkedin.com/in/yamil-laime-8218892b4)
 
 📧 Email
 [adelmar-vpc@hotmail.com](mailto:adelmar-vpc@hotmail.com)
 
-📱 Teléfono
+📱 Phone
 +54 9 11 5865-0760
